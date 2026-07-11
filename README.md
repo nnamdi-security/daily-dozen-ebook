@@ -33,20 +33,20 @@ Peter N. Ileh is a naturopathic practitioner who has spent the last several year
 
 ## 🎓 Project Context
 
-This e-book was produced as part of a class/programme assignment (BiP-60 — Build in Public, 60-Day Challenge, in partnership with Turing Tech LLC and the Enugu State Government). It is submitted here to fulfill the assignment's GitHub submission requirement.
+This e-book was produced as part of a class/programme assignment. It is submitted here to fulfill the assignment's GitHub submission requirement.
 
 ## 📂 Repository Contents
 
 ```
 ├── README.md                          # This file
 ├── The_Daily_Dozen_Peter_N_Ileh.pdf    # Final formatted e-book
-└── (additional assets, if any)
+
 ```
 
 ## 🔗 Links
 
-- **Amazon listing:** _add your Amazon book link here_
-- **Author contact:** _add preferred contact/socials here_
+- **Amazon listing:** _TBD_
+- **Author contact:** _petersaint515@gmail.com_
 
 ## 📄 Disclaimer
 
@@ -54,4 +54,4 @@ This book is intended for general informational and educational purposes only an
 
 ## © License / Rights
 
-Copyright © 2026 Peter N. Ileh. All rights reserved. This repository is shared for academic submission purposes as part of the BiP-60 programme.
+Copyright © 2026 Peter N. Ileh. All rights reserved. This repository is shared for academic submission purposes.

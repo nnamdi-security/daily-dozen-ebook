@@ -46,6 +46,7 @@ This e-book was produced as part of a class/programme assignment. It is submitte
 ## 🔗 Links
 
 - **Amazon listing:** _https://www.amazon.com/dp/B0H8M5HJ1F/ref=sr_1_5?sr=8-5_
+- **Selar listing:** _https://selar.com/044m811813_
 - **Author contact:** _petersaint515@gmail.com_
 
 ## 📄 Disclaimer
